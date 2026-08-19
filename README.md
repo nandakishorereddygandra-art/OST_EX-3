@@ -1,1 +1,1 @@
-# My New Project
+# OST Practical 3
